@@ -4,6 +4,9 @@
 
 #++++++3--------10+++++++
 
+from xml.etree.ElementTree import Comment
+
+
 inputUser = float(input("masukan angka yang bernilai \n3 < angka > 10 : "))
 
 
@@ -36,3 +39,7 @@ isKurangDari = (inputUser) < 10
 #memeriksa angka diantara 3 dan 10
 isCorect = isLebihDari and isKurangDari
 print("angka yang anda masukan adalah : ", isCorect)
+
+# nsvjbsbdscbd
+# dsjcbsducbd
+# cdcbdcdhcv
